@@ -1,0 +1,42 @@
+[Fine] ep 1/800 loss=5.038625e+05 data_omega=4.256321e-04 elec=3.729489e+08 mech=3.171655e+05 phys_w=1.350e-03
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 50/800 loss=2.336287e+07 data_omega=4.256267e-04 elec=3.729289e+08 mech=3.171485e+05 phys_w=6.259e-02
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+2025-11-14 09:24:36.249549: I tensorflow/core/framework/local_rendezvous.cc:407] Local rendezvous is aborting with status: OUT_OF_RANGE: End of sequence
+[Fine] ep 100/800 loss=4.669381e+07 data_omega=4.256630e-04 elec=3.729719e+08 mech=3.171851e+05 phys_w=1.251e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 150/800 loss=7.001838e+07 data_omega=4.257062e-04 elec=3.729524e+08 mech=3.171685e+05 phys_w=1.876e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 200/800 loss=9.334068e+07 data_omega=4.257114e-04 elec=3.729336e+08 mech=3.171525e+05 phys_w=2.501e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 250/800 loss=1.166746e+08 data_omega=4.256233e-04 elec=3.729595e+08 mech=3.171745e+05 phys_w=3.126e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 300/800 loss=1.399913e+08 data_omega=4.256675e-04 elec=3.729308e+08 mech=3.171501e+05 phys_w=3.751e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+2025-11-14 09:32:23.684947: I tensorflow/core/framework/local_rendezvous.cc:407] Local rendezvous is aborting with status: OUT_OF_RANGE: End of sequence
+Fine] ep 350/800 loss=1.633288e+08 data_omega=4.257620e-04 elec=3.729578e+08 mech=3.171730e+05 phys_w=4.376e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 400/800 loss=1.866556e+08 data_omega=4.256791e-04 elec=3.729568e+08 mech=3.171722e+05 phys_w=5.000e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 450/800 loss=2.099708e+08 data_omega=4.256767e-04 elec=3.729353e+08 mech=3.171539e+05 phys_w=5.625e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 500/800 loss=2.332905e+08 data_omega=4.256211e-04 elec=3.729252e+08 mech=3.171454e+05 phys_w=6.250e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 550/800 loss=2.566243e+08 data_omega=4.256434e-04 elec=3.729376e+08 mech=3.171558e+05 phys_w=6.875e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 600/800 loss=2.799560e+08 data_omega=4.257634e-04 elec=3.729450e+08 mech=3.171622e+05 phys_w=7.500e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 650/800 loss=3.032792e+08 data_omega=4.257048e-04 elec=3.729410e+08 mech=3.171587e+05 phys_w=8.125e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 700/800 loss=3.266068e+08 data_omega=4.256921e-04 elec=3.729424e+08 mech=3.171600e+05 phys_w=8.750e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 750/800 loss=3.499460e+08 data_omega=4.256703e-04 elec=3.729561e+08 mech=3.171716e+05 phys_w=9.375e-01
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+[Fine] ep 800/800 loss=3.732731e+08 data_omega=4.256495e-04 elec=3.729559e+08 mech=3.171715e+05 phys_w=1.000e+00
+   params: J=7.4440e-01, B=1.2693e-01, R=6.9315e-01, L=1.2693e-01, Km=7.4440e-01, Kb=7.4440e-01, Tload=0.0000e+00
+Fine-tuning done. Time elapsed: 1484.9s
+Saved model and learned parameters to 'pinn_gearless_output_90k'
+Saved predictions.csv
+Final RMSE (omega): 2.991343e+01
+Final learned parameters (physical units):
+J=7.443967e-01, B=1.269280e-01, R=6.931472e-01, L=1.269280e-01, Km=7.443967e-01, Kb=7.443967e-01, T_load=0.000000e+00
