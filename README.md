@@ -1,0 +1,1 @@
+# Parameter-identification-and-Control-using-SINDy-SINDy-AIC-PINN
